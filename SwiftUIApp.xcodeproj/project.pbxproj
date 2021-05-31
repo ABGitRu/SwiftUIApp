@@ -11,6 +11,9 @@
 		04D235952665559400A036FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D235942665559400A036FA /* ContentView.swift */; };
 		04D235972665559500A036FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04D235962665559500A036FA /* Assets.xcassets */; };
 		04D2359A2665559500A036FA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04D235992665559500A036FA /* Preview Assets.xcassets */; };
+		04D235A326655E6A00A036FA /* ColorCirlcle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D235A226655E6A00A036FA /* ColorCirlcle.swift */; };
+		04D235A62665618F00A036FA /* SwiftImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D235A52665618F00A036FA /* SwiftImage.swift */; };
+		04D235A92665633900A036FA /* AppleLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D235A82665633900A036FA /* AppleLogo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +23,9 @@
 		04D235962665559500A036FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04D235992665559500A036FA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04D2359B2665559500A036FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D235A226655E6A00A036FA /* ColorCirlcle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorCirlcle.swift; sourceTree = "<group>"; };
+		04D235A52665618F00A036FA /* SwiftImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftImage.swift; sourceTree = "<group>"; };
+		04D235A82665633900A036FA /* AppleLogo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleLogo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 			children = (
 				04D235922665559400A036FA /* SwiftUIAppApp.swift */,
 				04D235942665559400A036FA /* ContentView.swift */,
+				04D235A226655E6A00A036FA /* ColorCirlcle.swift */,
+				04D235A52665618F00A036FA /* SwiftImage.swift */,
+				04D235A82665633900A036FA /* AppleLogo.swift */,
 				04D235962665559500A036FA /* Assets.xcassets */,
 				04D2359B2665559500A036FA /* Info.plist */,
 				04D235982665559500A036FA /* Preview Content */,
@@ -138,8 +147,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D235A326655E6A00A036FA /* ColorCirlcle.swift in Sources */,
 				04D235952665559400A036FA /* ContentView.swift in Sources */,
 				04D235932665559400A036FA /* SwiftUIAppApp.swift in Sources */,
+				04D235A62665618F00A036FA /* SwiftImage.swift in Sources */,
+				04D235A92665633900A036FA /* AppleLogo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
